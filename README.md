@@ -1,0 +1,1 @@
+# Algorand_Fungible_Token
